@@ -99,7 +99,7 @@ npm install --save-dev @babel/preset-typescript
 
 # Add support to ESlint
 npm install --save-dev @typescript-eslint/parser
-npm install --save-dev  @typescript-eslint/eslint-plugin
+npm install --save-dev @typescript-eslint/eslint-plugin
 
 # Add support to jest
 npm install --save-dev ts-jest
