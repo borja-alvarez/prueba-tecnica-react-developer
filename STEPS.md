@@ -44,3 +44,8 @@ touch dist/index.html
 touch .babelrc
 ```
 
+## Running the app
+```sh
+# create main component
+touch src/app.jsx
+```
