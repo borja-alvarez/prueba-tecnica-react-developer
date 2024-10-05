@@ -28,7 +28,11 @@ npm install --save-dev babel-loader
 ## Configure webpack
 
 ```sh
+# create config file
 touch webpack.config.js
+# create entry point
+mkdir src
+touch src/index.js
 ```
 
 
