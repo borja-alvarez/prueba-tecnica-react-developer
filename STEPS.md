@@ -25,4 +25,10 @@ npm install --save-dev @babel/preset-react
 npm install --save-dev babel-loader
 ```
 
+## Configure webpack
+
+```sh
+touch webpack.config.js
+```
+
 
