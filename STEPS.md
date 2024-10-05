@@ -93,4 +93,8 @@ npm install --save-dev @types/node
 
 # Create ts config file
 touch tsconfig.json
+
+# Add support to Babel
+npm install --save-dev @babel/preset-typescript
+
 ```
