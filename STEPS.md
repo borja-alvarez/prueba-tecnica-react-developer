@@ -77,4 +77,8 @@ npm install --save-dev eslint-plugin-prettier
 
 # Create eslint config file
 touch eslint.config.js
+
+# Create prettier config file
+touch .prettierrc
+
 ```
