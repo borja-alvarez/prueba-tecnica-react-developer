@@ -80,5 +80,17 @@ touch eslint.config.js
 
 # Create prettier config file
 touch .prettierrc
+```
 
+## Install typescript
+```sh
+# Install dependencies
+npm install --save-dev typescript  
+npm install --save-dev @types/react 
+npm install --save-dev @types/react-dom 
+npm install --save-dev @types/jest 
+npm install --save-dev @types/node 
+
+# Create ts config file
+touch tsconfig.json
 ```
