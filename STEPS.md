@@ -100,4 +100,10 @@ npm install --save-dev @babel/preset-typescript
 # Add support to ESlint
 npm install --save-dev @typescript-eslint/parser
 npm install --save-dev  @typescript-eslint/eslint-plugin
+
+# Add support to jest
+npm install --save-dev ts-jest
+
+# Add file to load imports in all the test
+touch jest.setup.json
 ```
