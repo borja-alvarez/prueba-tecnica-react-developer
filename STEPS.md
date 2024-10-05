@@ -33,8 +33,14 @@ touch webpack.config.js
 # create entry point
 mkdir src
 touch src/index.js
+# create output folder
 mkdir dist
 touch dist/index.html
 ```
 
+## Configure babel
+```sh
+# create config file
+touch .babelrc
+```
 
