@@ -49,3 +49,20 @@ touch .babelrc
 # create main component
 touch src/app.jsx
 ```
+
+## Create basic test
+```sh
+# Intall React testing libraries
+npm install --save-dev @testing-library/react
+npm install --save-dev @testing-library/dom
+npm install --save-dev @testing-library/jest-dom
+npm install --save-dev jest-environment-jsdom
+
+# create test folder
+mkdir test
+touch test/index.test.js
+
+# create test config
+touch jest.config.js
+```
+
