@@ -33,6 +33,8 @@ touch webpack.config.js
 # create entry point
 mkdir src
 touch src/index.js
+mkdir dist
+touch dist/index.html
 ```
 
 
