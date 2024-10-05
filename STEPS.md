@@ -66,3 +66,15 @@ touch test/index.test.js
 touch jest.config.js
 ```
 
+## Install ESlint and prettier
+```sh
+# Install dependencies
+npm install --save-dev eslint  
+npm install --save-dev prettier 
+npm install --save-dev eslint-plugin-react 
+npm install --save-dev eslint-config-prettier 
+npm install --save-dev eslint-plugin-prettier 
+
+# Create eslint config file
+touch eslint.config.js
+```
