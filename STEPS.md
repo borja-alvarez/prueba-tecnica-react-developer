@@ -97,4 +97,7 @@ touch tsconfig.json
 # Add support to Babel
 npm install --save-dev @babel/preset-typescript
 
+# Add support to ESlint
+npm install --save-dev @typescript-eslint/parser
+npm install --save-dev  @typescript-eslint/eslint-plugin
 ```
